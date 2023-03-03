@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+repository 이름을 본인 계정의 닉네임으로 생성하면 이런게 된다..!
+
 <!--
 **jmshim95/jmshim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
