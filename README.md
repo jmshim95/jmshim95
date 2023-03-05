@@ -1,17 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmshim95)](https://solved.ac/jmshim95)
-
-```
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={백준아이디})](https://solved.ac/{백준아이디})
-```
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jmshim95)](https://solved.ac/jmshim95)
-
-```
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={백준아이디})](https://solved.ac/{백준아이디})
-```
-
 <!--
 **jmshim95/jmshim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
