@@ -2,6 +2,7 @@
 
 ```
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={백준아이디})](https://solved.ac/{백준아이디})
+ex) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmshim95)](https://solved.ac/jmshim95)
 ```
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jmshim95)](https://solved.ac/jmshim95)
